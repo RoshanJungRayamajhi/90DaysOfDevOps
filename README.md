@@ -1,4 +1,4 @@
-# #90DaysOfDevOps Challenge
+# #10DaysOfDevOps Challenge
 
 ## Learn, Upskill, Grow with the Community
 
